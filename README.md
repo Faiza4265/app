@@ -86,19 +86,19 @@ Includes both a **customer-facing shop** and an **admin panel** for managing pro
 ![Catalog Page](screenshoots/catalog.png)
 
 ### 🛒 Cart Page
-![Cart Page](screenshots/cart.png)
+![Cart Page](screenshoots/cart.png)
 
 ### 📦 Checkout Form
-![Checkout Page](screenshots/checkout.png)
+![Checkout Page](screenshoots/checkout.png)
 
 ### ✅ Order Summary
-![Order Summary](screenshots/order_summary.png)
+![Order Summary](screenshoots/order_summary.png)
 
 ### 🔐 Admin Panel
-![Admin Panel](screenshots/admin_login.png)
+![Admin Panel](screenshoots/admin_login.png)
 
 ### 🔐 Admin Panel
-![Admin Panel](screenshots/admin_page.png)
+![Admin Panel](screenshoots/admin_page.png)
 
 
 ---
