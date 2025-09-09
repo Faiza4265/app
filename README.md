@@ -83,7 +83,7 @@ Includes both a **customer-facing shop** and an **admin panel** for managing pro
 ## 🖼️ Screenshots
 
 ### 🏬 Catalog Page
-![Catalog Page](screenshots/catalog.png)
+![Catalog Page](screenshoots/catalog.png)
 
 ### 🛒 Cart Page
 ![Cart Page](screenshots/cart.png)
