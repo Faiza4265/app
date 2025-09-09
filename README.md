@@ -83,7 +83,7 @@ Includes both a **customer-facing shop** and an **admin panel** for managing pro
 ## 🖼️ Screenshots
 
 ### 🏬 Catalog Page
-![Catalog Page](screenshoots/catalog.png)
+![Catalog Page](https://raw.githubusercontent.com/Faiza4265/app/main/screenshoots/catalog.png)
 
 ### 🛒 Cart Page
 ![Cart Page](screenshoots/cart.png)
